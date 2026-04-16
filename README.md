@@ -1,12 +1,5 @@
 <div align="center">
-  <pre>
-╭─ UTKUVIBING ─────────────────────────────────────────────╮
-│ material scientist / terminal wizard                    │
-│ building software that actually belongs in the lab      │
-╰─────────────────────────────────────────────────────────╯
-  </pre>
-
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&pause=1300&duration=2800&color=7CFFB2&center=true&vCenter=true&width=920&height=36&lines=MaterialScope+%2F%2F+all-in-one+characterization+software;for+labs%2C+teachers%2C+MS%2FPhD+students%2C+and+scientists;built+with+AI%2C+engineering+judgment%2C+and+lab-induced+stubbornness" alt="Typing SVG" />
+  <img src="./media/materialscope-spin.gif" alt="Spinning ASCII MaterialScope logo" width="100%" />
 </div>
 
 ```text
