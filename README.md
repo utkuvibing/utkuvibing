@@ -1,92 +1,64 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="utkuvibing profile banner" width="100%" />
+  <pre>
+╭─ UTKUVIBING ─────────────────────────────────────────────╮
+│ material scientist / terminal wizard                    │
+│ building software that actually belongs in the lab      │
+╰─────────────────────────────────────────────────────────╯
+  </pre>
+
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&pause=1300&duration=2800&color=7CFFB2&center=true&vCenter=true&width=920&height=36&lines=MaterialScope+%2F%2F+all-in-one+characterization+software;for+labs%2C+teachers%2C+MS%2FPhD+students%2C+and+scientists;built+with+AI%2C+engineering+judgment%2C+and+lab-induced+stubbornness" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <h1>utkuvibing</h1>
-  <p><strong>materials science × AI-assisted tools × automation</strong></p>
-  <p>
-    I build scientific software, agentic workflows, and useful little machines for real-world problems.
-  </p>
-  <p>
-    <em>I make atoms, APIs, and side projects work overtime.</em>
-  </p>
-</div>
+```text
+> whoami
 
-<p align="center">
-  <a href="https://github.com/utkuvibing?tab=repositories&q=&type=&language=python">
-    <img src="https://img.shields.io/badge/core-scientific%20software-111111?style=flat-square&labelColor=080b10&color=151b23" alt="scientific software badge" />
-  </a>
-  <a href="https://github.com/utkuvibing?tab=repositories&q=&type=&language=typescript">
-    <img src="https://img.shields.io/badge/build-TypeScript-111111?style=flat-square&labelColor=080b10&color=151b23&logo=typescript&logoColor=8be9d1" alt="typescript badge" />
-  </a>
-  <img src="https://img.shields.io/badge/mode-AI--assisted-111111?style=flat-square&labelColor=080b10&color=151b23" alt="AI-assisted mode badge" />
-  <img src="https://img.shields.io/badge/focus-MaterialScope-111111?style=flat-square&labelColor=080b10&color=151b23&logo=atom&logoColor=8be9d1" alt="MaterialScope badge" />
-</p>
+Utku Sahin
+materials science engineer
+writing professional software for material science workflows
 
----
+> current_focus
 
-## About
+MaterialScope
+an all-in-one characterization program for material science labs,
+teachers, master's & PhD students, and scientists
 
-- Materials science engineer / student building with a product mindset.
-- Into AI-assisted tooling, scientific UX, automation, and software that saves people from repetitive work.
-- Somewhere between technical founder energy, lab notebook logic, and tasteful late-night vibecoding.
+> build_philosophy
 
-## Selected Work
+AI is the accelerator.
+engineering judgment is the filter.
+domain knowledge is the unfair advantage.
+```
 
-### MaterialScope
+## MaterialScope
 
-<sub><strong>Flagship</strong> · materials intelligence workspace · currently shaping the direction</sub>
+MaterialScope is the main thing.
 
-MaterialScope is the project I want this profile to orbit around: a cleaner interface for materials science workflows, analysis, and decision-making, built with the speed of modern AI tooling and the discipline of scientific software.
+I am building it as a cleaner, sharper, more modern software surface for materials characterization work, made by someone who actually comes from the domain and is tired of scientific software looking and feeling like collateral damage.
 
-<p>
-  <img src="https://img.shields.io/badge/flagship-8be9d1?style=flat-square&labelColor=080b10&color=151b23" alt="flagship badge" />
-  <img src="https://img.shields.io/badge/materials%20science-111111?style=flat-square&labelColor=080b10&color=151b23" alt="materials science badge" />
-  <img src="https://img.shields.io/badge/AI--assisted-111111?style=flat-square&labelColor=080b10&color=151b23" alt="AI-assisted badge" />
-  <img src="https://img.shields.io/badge/status-in%20progress-111111?style=flat-square&labelColor=080b10&color=151b23" alt="status badge" />
-</p>
+It is aimed at:
 
-### [ThermoAnalyzer](https://github.com/utkuvibing/thermoanalyzer)
+- material science labs
+- teachers and research groups
+- master's and PhD students
+- scientists who need serious tools, not menu archaeology
 
-<sub>Scientific software · thermal analysis · Python</sub>
+## Why This Exists
 
-Vendor-independent thermal analysis suite for DSC, TGA, and DTA data with kinetics and peak deconvolution. This is the strongest public example of the science-software side of my work.
-
-<p>
-  <img src="https://img.shields.io/badge/thermal%20analysis-111111?style=flat-square&labelColor=080b10&color=151b23" alt="thermal analysis badge" />
-  <img src="https://img.shields.io/badge/kinetics-111111?style=flat-square&labelColor=080b10&color=151b23" alt="kinetics badge" />
-  <img src="https://img.shields.io/badge/peak%20deconvolution-111111?style=flat-square&labelColor=080b10&color=151b23" alt="peak deconvolution badge" />
-</p>
-
-### [AMV Automation for After Effects](https://github.com/utkuvibing/amv_automation_after_effects)
-
-<sub>Automation project · computer vision workflow · Python</sub>
-
-AI-powered automation that places anime clips on After Effects timelines synced to beat markers using Gemini Vision. Slightly chaotic, very real, and a good snapshot of how I like to build automation.
-
-<p>
-  <img src="https://img.shields.io/badge/automation-111111?style=flat-square&labelColor=080b10&color=151b23" alt="automation badge" />
-  <img src="https://img.shields.io/badge/Gemini%20Vision-111111?style=flat-square&labelColor=080b10&color=151b23" alt="Gemini Vision badge" />
-  <img src="https://img.shields.io/badge/After%20Effects-111111?style=flat-square&labelColor=080b10&color=151b23" alt="After Effects badge" />
-</p>
+- A lot of lab software is still technically functional and spiritually hostile.
+- I use AI heavily, but not as a substitute for engineering or domain knowledge.
+- The goal is not to cosplay as a startup. The goal is to build software people in the lab would genuinely prefer using.
 
 ## Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&labelColor=080b10&color=151b23&logo=python&logoColor=8be9d1" alt="Python badge" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&labelColor=080b10&color=151b23&logo=typescript&logoColor=8be9d1" alt="TypeScript badge" />
-  <img src="https://img.shields.io/badge/React%20Native-111111?style=flat-square&labelColor=080b10&color=151b23&logo=react&logoColor=8be9d1" alt="React Native badge" />
-  <img src="https://img.shields.io/badge/Electron-111111?style=flat-square&labelColor=080b10&color=151b23&logo=electron&logoColor=8be9d1" alt="Electron badge" />
-  <img src="https://img.shields.io/badge/SciPy-111111?style=flat-square&labelColor=080b10&color=151b23&logo=scipy&logoColor=8be9d1" alt="SciPy badge" />
-  <img src="https://img.shields.io/badge/Selenium-111111?style=flat-square&labelColor=080b10&color=151b23&logo=selenium&logoColor=8be9d1" alt="Selenium badge" />
-  <img src="https://img.shields.io/badge/Gemini%20API-111111?style=flat-square&labelColor=080b10&color=151b23" alt="Gemini API badge" />
+  <img src="https://img.shields.io/badge/Python-0b0f14?style=flat-square&labelColor=0b0f14&color=1a222c&logo=python&logoColor=7CFFB2" alt="Python badge" />
+  <img src="https://img.shields.io/badge/Scientific%20Computing-0b0f14?style=flat-square&labelColor=0b0f14&color=1a222c" alt="Scientific Computing badge" />
+  <img src="https://img.shields.io/badge/AI--assisted%20development-0b0f14?style=flat-square&labelColor=0b0f14&color=1a222c" alt="AI-assisted development badge" />
+  <img src="https://img.shields.io/badge/Materials%20Science-0b0f14?style=flat-square&labelColor=0b0f14&color=1a222c" alt="Materials Science badge" />
 </p>
 
-## Current Vibe
+## Status
 
-Building tools where science meets software, interfaces stay clean, and automation is allowed to be a little overqualified.
+Currently building MaterialScope into the kind of tool I would have wanted in the lab from day one.
 
-<p align="center">
-  <sub>Open to building at the intersection of materials, AI, and automation.</sub>
-</p>
+<sub>half engineer, half terminal goblin, still trying to make scientific software look less like punishment.</sub>
