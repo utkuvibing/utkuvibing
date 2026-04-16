@@ -24,7 +24,7 @@
 ---
 
 <p align="center">
-  <img src="./media/materialscope-spin.gif" alt="Spinning ASCII MaterialScope logo" width="94%" />
+  <img src="./media/materialscope-mark.png" alt="MaterialScope ASCII logo" width="94%" />
 </p>
 
 <p align="center">
