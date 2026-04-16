@@ -1,53 +1,92 @@
-# Hey, I'm Utku
+<div align="center">
+  <img src="./assets/banner.svg" alt="utkuvibing profile banner" width="100%" />
+</div>
 
-**Design Engineer** from Turkey — bridging materials science with software.
-
-I build tools that automate tedious workflows using AI, and I like making things that people actually use.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkuvibing&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkuvibing&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkuvibing&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## Projects
-
-**[AMV Studio](https://github.com/utkuvibing/amv_automation_after_effects)** — AI-powered After Effects automation that syncs anime clips to beat markers using Gemini Vision. Cuts AMV creation from hours to minutes.
-
-**[Split Second](https://github.com/utkuvibing/split_second)** — A daily "Would You Rather?" mobile game with global results, streaks, badges, and personality discovery. Built with React Native + Supabase.
-
-**[ThermoAnalyzer](https://github.com/utkuvibing/thermoanalyzer)** — Vendor-independent thermal analysis suite for DSC, TGA, and DTA data with kinetic computations and peak deconvolution.
-
-**[X Scraper](https://github.com/utkuvibing/twitter_scraper)** — Selenium-based Twitter/X scraper with multi-format export and a Tauri desktop UI.
-
-**[The Inn](https://github.com/utkuvibing/adalet-discord-ozel)** — Private, self-hosted voice + text chat app. Like Discord, but runs on your own machine.
-
----
-
-## Tech Stack
+<div align="center">
+  <h1>utkuvibing</h1>
+  <p><strong>materials science × AI-assisted tools × automation</strong></p>
+  <p>
+    I build scientific software, agentic workflows, and useful little machines for real-world problems.
+  </p>
+  <p>
+    <em>I make atoms, APIs, and side projects work overtime.</em>
+  </p>
+</div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <a href="https://github.com/utkuvibing?tab=repositories&q=&type=&language=python">
+    <img src="https://img.shields.io/badge/core-scientific%20software-111111?style=flat-square&labelColor=080b10&color=151b23" alt="scientific software badge" />
+  </a>
+  <a href="https://github.com/utkuvibing?tab=repositories&q=&type=&language=typescript">
+    <img src="https://img.shields.io/badge/build-TypeScript-111111?style=flat-square&labelColor=080b10&color=151b23&logo=typescript&logoColor=8be9d1" alt="typescript badge" />
+  </a>
+  <img src="https://img.shields.io/badge/mode-AI--assisted-111111?style=flat-square&labelColor=080b10&color=151b23" alt="AI-assisted mode badge" />
+  <img src="https://img.shields.io/badge/focus-MaterialScope-111111?style=flat-square&labelColor=080b10&color=151b23&logo=atom&logoColor=8be9d1" alt="MaterialScope badge" />
 </p>
 
 ---
 
+## About
+
+- Materials science engineer / student building with a product mindset.
+- Into AI-assisted tooling, scientific UX, automation, and software that saves people from repetitive work.
+- Somewhere between technical founder energy, lab notebook logic, and tasteful late-night vibecoding.
+
+## Selected Work
+
+### MaterialScope
+
+<sub><strong>Flagship</strong> · materials intelligence workspace · currently shaping the direction</sub>
+
+MaterialScope is the project I want this profile to orbit around: a cleaner interface for materials science workflows, analysis, and decision-making, built with the speed of modern AI tooling and the discipline of scientific software.
+
+<p>
+  <img src="https://img.shields.io/badge/flagship-8be9d1?style=flat-square&labelColor=080b10&color=151b23" alt="flagship badge" />
+  <img src="https://img.shields.io/badge/materials%20science-111111?style=flat-square&labelColor=080b10&color=151b23" alt="materials science badge" />
+  <img src="https://img.shields.io/badge/AI--assisted-111111?style=flat-square&labelColor=080b10&color=151b23" alt="AI-assisted badge" />
+  <img src="https://img.shields.io/badge/status-in%20progress-111111?style=flat-square&labelColor=080b10&color=151b23" alt="status badge" />
+</p>
+
+### [ThermoAnalyzer](https://github.com/utkuvibing/thermoanalyzer)
+
+<sub>Scientific software · thermal analysis · Python</sub>
+
+Vendor-independent thermal analysis suite for DSC, TGA, and DTA data with kinetics and peak deconvolution. This is the strongest public example of the science-software side of my work.
+
+<p>
+  <img src="https://img.shields.io/badge/thermal%20analysis-111111?style=flat-square&labelColor=080b10&color=151b23" alt="thermal analysis badge" />
+  <img src="https://img.shields.io/badge/kinetics-111111?style=flat-square&labelColor=080b10&color=151b23" alt="kinetics badge" />
+  <img src="https://img.shields.io/badge/peak%20deconvolution-111111?style=flat-square&labelColor=080b10&color=151b23" alt="peak deconvolution badge" />
+</p>
+
+### [AMV Automation for After Effects](https://github.com/utkuvibing/amv_automation_after_effects)
+
+<sub>Automation project · computer vision workflow · Python</sub>
+
+AI-powered automation that places anime clips on After Effects timelines synced to beat markers using Gemini Vision. Slightly chaotic, very real, and a good snapshot of how I like to build automation.
+
+<p>
+  <img src="https://img.shields.io/badge/automation-111111?style=flat-square&labelColor=080b10&color=151b23" alt="automation badge" />
+  <img src="https://img.shields.io/badge/Gemini%20Vision-111111?style=flat-square&labelColor=080b10&color=151b23" alt="Gemini Vision badge" />
+  <img src="https://img.shields.io/badge/After%20Effects-111111?style=flat-square&labelColor=080b10&color=151b23" alt="After Effects badge" />
+</p>
+
+## Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&labelColor=080b10&color=151b23&logo=python&logoColor=8be9d1" alt="Python badge" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&labelColor=080b10&color=151b23&logo=typescript&logoColor=8be9d1" alt="TypeScript badge" />
+  <img src="https://img.shields.io/badge/React%20Native-111111?style=flat-square&labelColor=080b10&color=151b23&logo=react&logoColor=8be9d1" alt="React Native badge" />
+  <img src="https://img.shields.io/badge/Electron-111111?style=flat-square&labelColor=080b10&color=151b23&logo=electron&logoColor=8be9d1" alt="Electron badge" />
+  <img src="https://img.shields.io/badge/SciPy-111111?style=flat-square&labelColor=080b10&color=151b23&logo=scipy&logoColor=8be9d1" alt="SciPy badge" />
+  <img src="https://img.shields.io/badge/Selenium-111111?style=flat-square&labelColor=080b10&color=151b23&logo=selenium&logoColor=8be9d1" alt="Selenium badge" />
+  <img src="https://img.shields.io/badge/Gemini%20API-111111?style=flat-square&labelColor=080b10&color=151b23" alt="Gemini API badge" />
+</p>
+
+## Current Vibe
+
+Building tools where science meets software, interfaces stay clean, and automation is allowed to be a little overqualified.
+
 <p align="center">
-  <i>Based in Turkey | Materials Science background | Always looking for problems worth automating</i>
+  <sub>Open to building at the intersection of materials, AI, and automation.</sub>
 </p>
