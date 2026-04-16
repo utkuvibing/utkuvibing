@@ -23,20 +23,9 @@
 
 ---
 
-```text
-> current thesis
-
-scientific software should not feel like punishment
-
-> unfair advantage
-
-I use AI heavily,
-but the product logic comes from actual engineering needs
-
-> current build
-
-MaterialScope
-```
+<p align="center">
+  <img src="./media/materialscope-spin.gif" alt="Spinning ASCII MaterialScope logo" width="94%" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0b0f14?style=flat-square&labelColor=0b0f14&color=1a222c&logo=python&logoColor=7CFFB2" alt="Python badge" />
